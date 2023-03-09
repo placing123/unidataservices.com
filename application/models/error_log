@@ -1,0 +1,16 @@
+[26-Apr-2022 05:25:57 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Model' not found in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php on line 2
+[26-Apr-2022 05:26:01 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Model' not found in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php on line 2
+[26-Apr-2022 05:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Model' not found in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php on line 2
+[26-Apr-2022 05:26:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Model' not found in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ltx8i4fswi8y/cvportals.com/application/models/Mymodel.php on line 2
